@@ -1,0 +1,165 @@
+body{
+    background-color:#e3e5e8;
+}
+.column1{
+    background-color: silver;
+    font-size: large;
+    /*margin:0 auto;*/
+    text-align: center;
+}
+.col{
+    background-color: silver;
+    font-size: large;
+    margin:0 auto;
+}
+.image{
+    margin:27px auto;
+}
+.header{
+    margin:0px;
+    height:150px;
+    background-color: red;
+}
+.image-responsive{
+    margin-top:48px;
+    margin-left:250px;
+
+
+}
+.texts{
+    margin-left: 160px;
+    font-size:large;
+    position: absolute;
+
+}
+.text1{
+    color: white;
+    margin-left:20px;
+margin-top: 20px;
+}
+.text2{
+    color:white;
+    margin-left:60px;
+    margin-top: 50px;
+}
+.text3{
+    color:white;
+    margin-left:290px;
+}
+.inputs{
+    margin-top:-35px;
+    margin-left:353px;
+
+
+}
+.store {
+    color:white;
+    margin-left:900px;
+    margin-top: -37px;
+
+    font-size:medium;
+
+}
+.sign{
+    color: white;
+    margin-top:-75px;
+    margin-left:1060px; ;
+
+}
+/*#dropdownMenu2 {*/
+    /*margin-left: 1050px;*/
+    /*margin-top: -85px;*/
+
+/*}*/
+.create{
+    color:red;
+}
+.form-control{
+    height:27px;
+    width:232px;
+   margin-top:3px;
+}
+.img{
+    margin-left:202px;
+    margin-top:-48px;
+}
+#navv{
+    margin-left: 380px;
+
+}
+.navi{
+    background-color: black;
+    margin:-33px auto;
+}
+.nav1 li a{
+    color:white;
+}
+.nav1 li a:hover{
+    color:silver;
+}
+#nav {
+    margin-left: 20px;
+}
+.sub1 li a{
+    padding: 7px 5px;
+    color:black;
+}
+.sub1 li a:hover {
+    color:red;
+}
+.divstop li a{
+    color:black;
+}
+.divstop li a:hover{
+    color:silver;
+}
+.subbs{
+    height:200px;
+    width:900px;
+    border:2px solid black;
+background-color: red;
+    position: absolute;
+}
+.acount {
+    margin-left: 1045px;
+    margin-top:-47px;
+}
+#chatbox{
+    height:300px;
+    width:300px;
+    border:2px solid black;
+    display: none;
+    background-color: #cdcccc;
+    margin-left:0px;
+    margin-top:0px;
+    z-index:+1;
+    position: absolute;
+}
+.image{
+    background-color: black;
+}
+#subnaving{
+    height:300px;
+    width:1000px;
+    /*border:2px solid black;*/
+    display: none;
+    position: absolute;
+    z-index: +1;
+    background-color:white;
+    margin-left:140px;
+}
+li{
+    list-style-type: none;
+}
+.divstop{
+    height:300px;
+    width:200px;
+
+    margin-left:10px;
+    position: relative;
+    float: left;
+}
+.guitar{
+    margin-left:280px;
+    position: absolute;
+}
